@@ -1,0 +1,17 @@
+{
+  "name": "pixi-falling-sand",
+  "version": "1.0.0",
+  "description": "A falling sand simulation made in Pixi",
+  "main": "index.js",
+  "scripts": {
+    "build": "node build.mjs",
+    "watch": "npx nodemon"
+  },
+  "author": "Jimy Houlbrook",
+  "license": "ISC",
+  "devDependencies": {
+    "esbuild": "^0.24.2",
+    "nodemon": "^3.1.9",
+    "pixi.js": "^8.6.6"
+  }
+}
