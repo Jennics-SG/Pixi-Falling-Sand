@@ -46,7 +46,6 @@ class FallingSand{
             canvas: <HTMLCanvasElement>document.getElementById("app"),
             background: 0x000000,
             antialias: true,
-            hello: true
         });
         
         // Update & Draw function
